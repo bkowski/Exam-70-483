@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.0 Manage program flow", "1.0 Manage program flow\1.0 Manage program flow.csproj", "{E45E27FB-5EFA-48EF-9ACF-12FFF6EC6F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.0 Implement data access", "4.0 Implement data access\4.0 Implement data access.csproj", "{806B699F-D834-4146-A77B-DBF7922B39BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E45E27FB-5EFA-48EF-9ACF-12FFF6EC6F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45E27FB-5EFA-48EF-9ACF-12FFF6EC6F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45E27FB-5EFA-48EF-9ACF-12FFF6EC6F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45E27FB-5EFA-48EF-9ACF-12FFF6EC6F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806B699F-D834-4146-A77B-DBF7922B39BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806B699F-D834-4146-A77B-DBF7922B39BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806B699F-D834-4146-A77B-DBF7922B39BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806B699F-D834-4146-A77B-DBF7922B39BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
