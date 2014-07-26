@@ -30,8 +30,6 @@ namespace _4._4_Binary_serialization
             stream = new FileStream("Product.bin", FileMode.Open, FileAccess.Read, FileShare.Read);
             Product prod2 = (Product)formatter.Deserialize(stream);
             stream.Close();
-
-            Console.ReadKey();
         }
     }
 }

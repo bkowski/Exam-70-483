@@ -4,16 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _4._4_Binary_serialization
+using System.Xml.Serialization;
+
+namespace _4._4_XML_serialization
 {
-    [Serializable]
-    class Product
+    public class Product // Class must be public for xml serialization
     {
-        [NonSerialized] // Prevent _id field from being serialized
+        // Only public fields will be serialized
+
         private int _id;
         public string name;
         public decimal price;
 
+        [XmlIgnore] // id will not be serialized
         public int id
         {
             get { return _id; }
