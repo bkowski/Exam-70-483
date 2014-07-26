@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.4 Binary serialization", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.4 XML serialization", "4.4 XML serialization\4.4 XML serialization.csproj", "{98F16DA4-C9EE-40BE-B1C2-1D6138AAF11F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.4 JSON serialization", "4.4 JSON serialization\4.4 JSON serialization.csproj", "{BC4D340D-97F9-469A-871B-EF09DEE9355F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{98F16DA4-C9EE-40BE-B1C2-1D6138AAF11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98F16DA4-C9EE-40BE-B1C2-1D6138AAF11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98F16DA4-C9EE-40BE-B1C2-1D6138AAF11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4D340D-97F9-469A-871B-EF09DEE9355F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4D340D-97F9-469A-871B-EF09DEE9355F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4D340D-97F9-469A-871B-EF09DEE9355F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4D340D-97F9-469A-871B-EF09DEE9355F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
