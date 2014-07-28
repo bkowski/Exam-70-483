@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.4 JSON serialization", "4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.5 Custom Collections", "4.5 Custom Collections\4.5 Custom Collections.csproj", "{B2B86444-4644-4800-AEAC-122E976C2B14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.5 Generic List", "4.5 Generic List\4.5 Generic List.csproj", "{7D951826-DEE9-46A3-97B2-A7736954F99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.2 DBDataAdapter", "4.2 DBDataAdapter\4.2 DBDataAdapter.csproj", "{993CFE7A-E3AC-458E-A1EE-4210E192082F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B2B86444-4644-4800-AEAC-122E976C2B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2B86444-4644-4800-AEAC-122E976C2B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2B86444-4644-4800-AEAC-122E976C2B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D951826-DEE9-46A3-97B2-A7736954F99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D951826-DEE9-46A3-97B2-A7736954F99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D951826-DEE9-46A3-97B2-A7736954F99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D951826-DEE9-46A3-97B2-A7736954F99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993CFE7A-E3AC-458E-A1EE-4210E192082F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993CFE7A-E3AC-458E-A1EE-4210E192082F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993CFE7A-E3AC-458E-A1EE-4210E192082F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993CFE7A-E3AC-458E-A1EE-4210E192082F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
