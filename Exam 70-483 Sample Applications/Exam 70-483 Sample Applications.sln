@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1 StreamReader", "4.1 Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1 Asynchronous IO Operations", "4.1 Asynchronous IO Operations\4.1 Asynchronous IO Operations.csproj", "{6C73C7FF-1069-4F43-9387-5FFEF485463E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.3 LINQ Distinct Method Custom", "4.3 LINQ Distinct Method Custom\4.3 LINQ Distinct Method Custom.csproj", "{B935EB30-BB28-4BBD-B30E-A4FEF5A30BDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{6C73C7FF-1069-4F43-9387-5FFEF485463E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C73C7FF-1069-4F43-9387-5FFEF485463E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C73C7FF-1069-4F43-9387-5FFEF485463E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B935EB30-BB28-4BBD-B30E-A4FEF5A30BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B935EB30-BB28-4BBD-B30E-A4FEF5A30BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B935EB30-BB28-4BBD-B30E-A4FEF5A30BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B935EB30-BB28-4BBD-B30E-A4FEF5A30BDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

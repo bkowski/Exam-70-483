@@ -25,21 +25,21 @@ namespace _4._1_Asynchronous_IO_Operations
             this.Text = "Searching...";
             string outputFileName = @"C:\Users\Public\FoundFiles.txt";
 
-            await SearchDirectory(@"C:\Users\Carolyn", "abc", outputFileName);
+            await SearchDirectoryAsync(@"C:\Users\Carolyn", "abc", outputFileName);
 
             this.Text = "Finished";
 
             Process.Start(outputFileName);
         }
 
-        private static async Task SearchDirectory(string searchPath, string searchString, string outputFileName)
+        private static async Task SearchDirectoryAsync(string searchPath, string searchString, string outputFileName)
         {
             StreamWriter sw = File.CreateText(outputFileName);
 
             string[] fileNames = Directory.GetFiles(searchPath);
             await FindTextInFilesAsync(fileNames, searchString, sw);
 
-            sr.Close();
+            sw.Close();
         }
 
         private static async Task FindTextInFilesAsync(string[] fileNames, string searchString, StreamWriter outputFile)
