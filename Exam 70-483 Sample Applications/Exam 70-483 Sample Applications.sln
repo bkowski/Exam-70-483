@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.3 LINQ Distinct Method Cu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.5 System event log", "3.5 System event log\3.5 System event log.csproj", "{44815B5D-006D-4CF5-9DA9-719537690669}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 X509Certificates", "3.2 X509Certificates\3.2 X509Certificates.csproj", "{A42FA450-86DE-41BA-9A1D-C5784C0DB15E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{44815B5D-006D-4CF5-9DA9-719537690669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44815B5D-006D-4CF5-9DA9-719537690669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44815B5D-006D-4CF5-9DA9-719537690669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A42FA450-86DE-41BA-9A1D-C5784C0DB15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42FA450-86DE-41BA-9A1D-C5784C0DB15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42FA450-86DE-41BA-9A1D-C5784C0DB15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42FA450-86DE-41BA-9A1D-C5784C0DB15E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
