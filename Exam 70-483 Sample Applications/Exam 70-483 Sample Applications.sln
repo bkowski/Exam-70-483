@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.5 System event log", "3.5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 X509Certificates", "3.2 X509Certificates\3.2 X509Certificates.csproj", "{A42FA450-86DE-41BA-9A1D-C5784C0DB15E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 ProtectedData", "3.2 ProtectedData\3.2 ProtectedData.csproj", "{79768319-CCEA-4D99-ACE1-357BB63C6909}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A42FA450-86DE-41BA-9A1D-C5784C0DB15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A42FA450-86DE-41BA-9A1D-C5784C0DB15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A42FA450-86DE-41BA-9A1D-C5784C0DB15E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79768319-CCEA-4D99-ACE1-357BB63C6909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79768319-CCEA-4D99-ACE1-357BB63C6909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79768319-CCEA-4D99-ACE1-357BB63C6909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79768319-CCEA-4D99-ACE1-357BB63C6909}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
