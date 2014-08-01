@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 ProtectedData", "3.2 Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 RSA Asymmetric Algorithm", "3.2 RSA Asymmetric Algorithm\3.2 RSA Asymmetric Algorithm.csproj", "{00A140DE-B0A9-4FDD-913B-66FD7D5C7B68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.5 Reflection", "2.5 Reflection\2.5 Reflection.csproj", "{A7C3BEF7-0312-4C6C-AA43-21567A6AFAC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{00A140DE-B0A9-4FDD-913B-66FD7D5C7B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00A140DE-B0A9-4FDD-913B-66FD7D5C7B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00A140DE-B0A9-4FDD-913B-66FD7D5C7B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C3BEF7-0312-4C6C-AA43-21567A6AFAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C3BEF7-0312-4C6C-AA43-21567A6AFAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C3BEF7-0312-4C6C-AA43-21567A6AFAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C3BEF7-0312-4C6C-AA43-21567A6AFAC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
