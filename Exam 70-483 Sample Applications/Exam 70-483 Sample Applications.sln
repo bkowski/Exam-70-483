@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1 PLINQ", "1.1 PLINQ\1.1 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2 Locking", "1.2 Locking\1.2 Locking.csproj", "{54BD2C03-A6AC-4247-8156-4D75E95C3A53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 Delegates", "1.4 Delegates\1.4 Delegates.csproj", "{D80521C4-F88F-426F-B79F-AD7B246B1E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 Events", "1.4 Events\1.4 Events.csproj", "{88A0BAA5-3F96-43A5-8DD0-B838F7CE2B4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{54BD2C03-A6AC-4247-8156-4D75E95C3A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54BD2C03-A6AC-4247-8156-4D75E95C3A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54BD2C03-A6AC-4247-8156-4D75E95C3A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80521C4-F88F-426F-B79F-AD7B246B1E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80521C4-F88F-426F-B79F-AD7B246B1E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80521C4-F88F-426F-B79F-AD7B246B1E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80521C4-F88F-426F-B79F-AD7B246B1E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A0BAA5-3F96-43A5-8DD0-B838F7CE2B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A0BAA5-3F96-43A5-8DD0-B838F7CE2B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A0BAA5-3F96-43A5-8DD0-B838F7CE2B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A0BAA5-3F96-43A5-8DD0-B838F7CE2B4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
