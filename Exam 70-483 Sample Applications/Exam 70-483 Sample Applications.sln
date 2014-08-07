@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 Delegates", "1.4 Delega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 Events", "1.4 Events\1.4 Events.csproj", "{88A0BAA5-3F96-43A5-8DD0-B838F7CE2B4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1 Generics", "2.1 Generics\2.1 Generics.csproj", "{B7DB9CF4-42A7-4A0E-AB6B-FDDBF2E391CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1 Extension Methods", "2.1 Extension Methods\2.1 Extension Methods.csproj", "{180F5963-3A34-435C-8804-2A9CC6490481}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{88A0BAA5-3F96-43A5-8DD0-B838F7CE2B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88A0BAA5-3F96-43A5-8DD0-B838F7CE2B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88A0BAA5-3F96-43A5-8DD0-B838F7CE2B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DB9CF4-42A7-4A0E-AB6B-FDDBF2E391CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DB9CF4-42A7-4A0E-AB6B-FDDBF2E391CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DB9CF4-42A7-4A0E-AB6B-FDDBF2E391CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DB9CF4-42A7-4A0E-AB6B-FDDBF2E391CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180F5963-3A34-435C-8804-2A9CC6490481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180F5963-3A34-435C-8804-2A9CC6490481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180F5963-3A34-435C-8804-2A9CC6490481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180F5963-3A34-435C-8804-2A9CC6490481}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
