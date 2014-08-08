@@ -4,16 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2._1_Extension_Methods
+namespace _2._3_Explicit_interface
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int num1 = 100;
-            int answer1 = num1.Add100();
+            Class1 c = new Class1();
+            // implicit
+            c.DoThis();
+            
+            // explicit
+            Interface2 i2 = c;
+            i2.DoThis();
 
-            Console.WriteLine("Half: {0}, Add100: {1}", num1.Half(), num1.Add100());
             Console.ReadLine();
         }
     }
