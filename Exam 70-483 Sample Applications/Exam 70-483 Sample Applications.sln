@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.6 IDisposable", "2.6 IDis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2 Explicit conversion", "2.2 Explicit conversion\2.2 Explicit conversion.csproj", "{C4FA06DC-97BD-44C9-92BB-E31EF8F8E766}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2 Implicit conversion", "2.2 Implicit conversion\2.2 Implicit conversion.csproj", "{66D0EEEB-2062-4C4D-84D2-0736BB40828B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{C4FA06DC-97BD-44C9-92BB-E31EF8F8E766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4FA06DC-97BD-44C9-92BB-E31EF8F8E766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4FA06DC-97BD-44C9-92BB-E31EF8F8E766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D0EEEB-2062-4C4D-84D2-0736BB40828B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D0EEEB-2062-4C4D-84D2-0736BB40828B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D0EEEB-2062-4C4D-84D2-0736BB40828B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D0EEEB-2062-4C4D-84D2-0736BB40828B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
