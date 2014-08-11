@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2 Explicit conversion", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2 Implicit conversion", "2.2 Implicit conversion\2.2 Implicit conversion.csproj", "{66D0EEEB-2062-4C4D-84D2-0736BB40828B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 AES Symmetric Algorithm", "3.2 AES Symmetric Algorithm\3.2 AES Symmetric Algorithm.csproj", "{782C06F8-799B-45B9-98FC-673540E033B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{66D0EEEB-2062-4C4D-84D2-0736BB40828B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66D0EEEB-2062-4C4D-84D2-0736BB40828B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66D0EEEB-2062-4C4D-84D2-0736BB40828B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782C06F8-799B-45B9-98FC-673540E033B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782C06F8-799B-45B9-98FC-673540E033B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782C06F8-799B-45B9-98FC-673540E033B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782C06F8-799B-45B9-98FC-673540E033B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
