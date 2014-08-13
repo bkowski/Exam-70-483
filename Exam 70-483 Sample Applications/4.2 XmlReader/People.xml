@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<people>
+  <person firstname="john" lastname="doe">
+    <contactdetails>
+      <emailaddress>john@john.com</emailaddress>
+    </contactdetails>
+  </person>
+  <preson firstname="jane" lastname="doe">
+    <contactdetails>
+      <emailaddress>jane@jane.com</emailaddress>
+    </contactdetails>
+  </preson>
+</people>
