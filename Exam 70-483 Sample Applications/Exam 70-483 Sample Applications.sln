@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.2 XmlDocument", "4.2 XmlD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.3 XElement", "4.3 XElement\4.3 XElement.csproj", "{784CB062-CD9E-41B7-9354-4671CF9A6E0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.4 Breakpoints", "3.4 Breakpoints\3.4 Breakpoints.csproj", "{3BA76DA5-0FB9-4CED-80A2-ED5B686D6899}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{784CB062-CD9E-41B7-9354-4671CF9A6E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{784CB062-CD9E-41B7-9354-4671CF9A6E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{784CB062-CD9E-41B7-9354-4671CF9A6E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA76DA5-0FB9-4CED-80A2-ED5B686D6899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA76DA5-0FB9-4CED-80A2-ED5B686D6899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA76DA5-0FB9-4CED-80A2-ED5B686D6899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA76DA5-0FB9-4CED-80A2-ED5B686D6899}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
