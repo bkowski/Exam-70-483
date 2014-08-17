@@ -83,6 +83,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.3 XElement", "4.3 XElemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.4 Breakpoints", "3.4 Breakpoints\3.4 Breakpoints.csproj", "{3BA76DA5-0FB9-4CED-80A2-ED5B686D6899}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 Covariance", "1.4 Covariance\1.4 Covariance.csproj", "{15895D31-C08A-4993-8C1C-22CFF52C8D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 Contravariance", "1.4 Contravariance\1.4 Contravariance.csproj", "{7D625EB0-D4E3-49C2-A983-B66BEAC9D166}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +253,14 @@ Global
 		{3BA76DA5-0FB9-4CED-80A2-ED5B686D6899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BA76DA5-0FB9-4CED-80A2-ED5B686D6899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BA76DA5-0FB9-4CED-80A2-ED5B686D6899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15895D31-C08A-4993-8C1C-22CFF52C8D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15895D31-C08A-4993-8C1C-22CFF52C8D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15895D31-C08A-4993-8C1C-22CFF52C8D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15895D31-C08A-4993-8C1C-22CFF52C8D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D625EB0-D4E3-49C2-A983-B66BEAC9D166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D625EB0-D4E3-49C2-A983-B66BEAC9D166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D625EB0-D4E3-49C2-A983-B66BEAC9D166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D625EB0-D4E3-49C2-A983-B66BEAC9D166}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
