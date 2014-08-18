@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 Contravariance", "1.4 C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.5 Type Reflection", "2.5 Type Reflection\2.5 Type Reflection.csproj", "{DFD154FC-89BE-4525-8359-AFB22A1402C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 CarDelegate", "1.4 CarDelegate\1.4 CarDelegate.csproj", "{0613ED0D-9E98-438D-BE58-7793F0E5DE8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{DFD154FC-89BE-4525-8359-AFB22A1402C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFD154FC-89BE-4525-8359-AFB22A1402C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFD154FC-89BE-4525-8359-AFB22A1402C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0613ED0D-9E98-438D-BE58-7793F0E5DE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0613ED0D-9E98-438D-BE58-7793F0E5DE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0613ED0D-9E98-438D-BE58-7793F0E5DE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0613ED0D-9E98-438D-BE58-7793F0E5DE8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
